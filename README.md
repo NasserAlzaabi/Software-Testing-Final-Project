@@ -7,3 +7,4 @@ Given all the java files our task is to:
 well as the techniques used to generate the test cases. 
 
 This will be done using the jUnit framework
+test
